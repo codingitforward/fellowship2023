@@ -31,7 +31,7 @@ State & Local Offices:
 
 Meet the 92 young technologists who served in our seventh cohort: [Introducing the 2023 Coding it Forward Fellows](https://blog.codingitforward.com/introducing-the-2023-coding-it-forward-fellows-80757a310d08)
 
-This repository features the slides that Fellows presented during their respective end-of-summer presentations at their host offices. View a recording of Coding it Forward’s [virtual demo day]() (Recording To be Posted).
+This repository features the slides that Fellows presented during their respective end-of-summer presentations at their host offices. View a recording of Coding it Forward’s [virtual demo day](https://www.youtube.com/watch?v=9jsic8PS3RU&list=PLFdnW8F-XXkBv2NISBZd81ZuafpoRKIji).
 
 ---
 
