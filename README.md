@@ -33,6 +33,8 @@ Meet the 92 young technologists who served in our seventh cohort: [Introducing t
 
 This repository features the slides that Fellows presented during their respective end-of-summer presentations at their host offices. View a recording of Coding it Forward’s [virtual demo day]() (Recording To be Posted).
 
+---
+
 ### About the Fellows 
 ***Kindly note that if a Fellow's biography does not have a link, their work is not publicly available. If a Fellow's biography contains a link without the actual PDF uploaded, their presentation is still under review for release.***
 
@@ -44,7 +46,7 @@ This repository features the slides that Fellows presented during their respecti
 
 **Amey Bansod**
 
-Andrew Liu is a Masters student at New York University studying Computer Science. This summer, he worked at the Metropolitan Area Planning Council (MAPC) on the digital services team serving the Great Boston Area, developing new and existing full-stack web apps as well as developing accessible design and tech infrastructure practices. His work has spanned 5 different projects facing audiences ranging from general public, internal municipal planners, to legislators. | [Presentation](Andrew_Liu.pdf)
+**Andrew Liu** is a Masters student at New York University studying Computer Science. This summer, he worked at the Metropolitan Area Planning Council (MAPC) on the digital services team serving the Great Boston Area, developing new and existing full-stack web apps as well as developing accessible design and tech infrastructure practices. His work has spanned 5 different projects facing audiences ranging from general public, internal municipal planners, to legislators. | [Presentation](Andrew_Liu.pdf)
 
 **Andrew Shaw**
 
@@ -58,7 +60,7 @@ Andrew Liu is a Masters student at New York University studying Computer Science
 
 **Asia Paige**
 
-Ayush Kumar is a Research Scientist at New York University and an alumnus of the University of Georgia. This summer, he worked at the US Census Bureau as a Data Engineering Fellow in the Statistics Modernization Branch alongside Sarah Dzwil. Their project built extract-transform-load (ETL) pipelines for over 1.3 million administrative records from the SEC and IRS. The final databases will be used by dozens of downstream stakeholders to validate survey data and improve Census data products. | [Presentation](Ayush_Kumar_Sarah_Dzwil.pdf)
+**Ayush Kumar** is a Research Scientist at New York University and an alumnus of the University of Georgia. This summer, he worked at the US Census Bureau as a Data Engineering Fellow in the Statistics Modernization Branch alongside Sarah Dzwil. Their project built extract-transform-load (ETL) pipelines for over 1.3 million administrative records from the SEC and IRS. The final databases will be used by dozens of downstream stakeholders to validate survey data and improve Census data products. | [Presentation](Ayush_Kumar_Sarah_Dzwil.pdf)
 
 **Brandon Wallace**
 
@@ -140,9 +142,9 @@ Ayush Kumar is a Research Scientist at New York University and an alumnus of the
 
 **Marcelo Morales** is a recent graduate from Johns Hopkins University with a B.S. degree in Computer Science. This summer, he worked on the U.S. Citizenship and Immigration Services office as a software engineer fellow where he helped team improve their continuous integration and continuous development processes. | [Presentation](Marcelo_Morales Valiente.pdf)
 
-Marion Madanguit is a senior at Olin College of Engineering, studying Engineering with a concentration in Technology and Society. Grounded in a commitment to contributing to a more just and equitable world, she has explored roles as a project manager, designer, engineer, and volunteer in non-profit, research, and start-up spaces. This summer, she worked at the City of Boston as a User Research Fellow for the Boston Digital Service. In collaboration with other fellows and departments at the City, she worked to infuse design and user research practices into several ongoing projects, including a landscape analysis of the City’s digital forms, a redesign of a key form in the marriage registration process, a redesign of a public-facing dashboard for the Green New Deal, and a service blueprint of the permitting and zoning appeals process. | [Presentation 1](Marion_Madanguit_Ryan_Gajarawala_Oluseyi_Yoloye.pdf), [Presentation 2](Taft_Kilpack_Ryan_Gajarawala_Marion_Madanguit-1.pdf), [Presentation 3](Taft_Kilpack_Ryan_Gajarawala_Marion_Madanguit-2.pdf)
+**Marion Madanguit** is a senior at Olin College of Engineering, studying Engineering with a concentration in Technology and Society. Grounded in a commitment to contributing to a more just and equitable world, she has explored roles as a project manager, designer, engineer, and volunteer in non-profit, research, and start-up spaces. This summer, she worked at the City of Boston as a User Research Fellow for the Boston Digital Service. In collaboration with other fellows and departments at the City, she worked to infuse design and user research practices into several ongoing projects, including a landscape analysis of the City’s digital forms, a redesign of a key form in the marriage registration process, a redesign of a public-facing dashboard for the Green New Deal, and a service blueprint of the permitting and zoning appeals process. | [Presentation 1](Marion_Madanguit_Ryan_Gajarawala_Oluseyi_Yoloye.pdf), [Presentation 2](Taft_Kilpack_Ryan_Gajarawala_Marion_Madanguit-1.pdf), [Presentation 3](Taft_Kilpack_Ryan_Gajarawala_Marion_Madanguit-2.pdf)
 
-Marivi Sifuentes is a recent graduate from the University of Michigan with a M.S. in Human-Computer interaction and a B.A. in Sociology. This summer, she worked at the City of New York in the Mayor's Office for Economic Opportunity alongside Oskar Lelko, supporting the overhaul of data products reporting on the outcomes of the city's workforce development system and service distribution. Her work led to the development of an inclusive design system and ensured products are accessible to users, including those with visual impairments or screen readers. | [Presentation](Oskar_Lelko_Marivi_Sifuentes.pdf)
+**Marivi Sifuentes** is a recent graduate from the University of Michigan with a M.S. in Human-Computer interaction and a B.A. in Sociology. This summer, she worked at the City of New York in the Mayor's Office for Economic Opportunity alongside Oskar Lelko, supporting the overhaul of data products reporting on the outcomes of the city's workforce development system and service distribution. Her work led to the development of an inclusive design system and ensured products are accessible to users, including those with visual impairments or screen readers. | [Presentation](Oskar_Lelko_Marivi_Sifuentes.pdf)
 
 **Mary Chen** is a recent graduate from Yale University, where she studied Political Science and Earth & Planetary Sciences with a certificate in Energy Studies. This summer, she worked at the NYC Department of Housing Preservation and Development (HPD), where she investigated the impact of the Emergency Rental Assistance Program on affordable housing in NYC. She also updated user resources for nine HPD datasets published on NYC Open Data.
 
